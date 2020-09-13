@@ -1,6 +1,7 @@
 # EfficientNetStyleTransfer
 
 # Examples
+Here some examples of the results. (some may not look properly because of the resizing)
 <p align="center">
   <img src="images/atılım.jpg" width="256" height="256">
   <img src="images/starry_night_full.jpg" width="256" height="256">
@@ -12,7 +13,17 @@
   <img src="images/alyssa_monks.jpg" width="256" height="256">
   <img src="images/results/alyssa%20monks.png" width="256" height="256">
 </p>
-
+<p align="center">
+  <img src="images/girl.jpeg" width="256" height="256">
+  <img src="images/starry_night_full.jpg" width="256" height="256">
+  <img src="images/results/girl-van gogh.png" width="256" height="256">
+</p>
+<p align="center">
+  <img src="images/girl2.jpeg" width="256" height="256">
+  <img src="images/mag011-hokusai-kanagawa.jpg" width="256" height="256">
+  <img src="images/results/girl- hokusai kanagawa.png" width="256" height="256">
+</p>
+More examples and original size images can be found in the "images" file in this repo.
 
 # Credits
 This is my first work on Neural Style Transfer. Since I have wanted to try doing this, I have checked several sources for examples. One of them  was: https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/style_transfer.ipynb. As you can see, most of the functions are same since I did not know how to replace them YET. So they have to take most of the credit since I am still learning on this topic. As soon as I have the capacity to change those functions, I will replace them with my own code. Until then, all credits belongs to them.
