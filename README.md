@@ -1,9 +1,7 @@
 # EfficientNetStyleTransfer
 
 #Examples
-![alt text](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/atılım.jpg?raw=true) +
-![alt text](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/starry_night_full.jpg?raw=true) =
-![alt text](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/results/atılım%20van%20gogh.png?raw=true)
+![alt text](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/atılım.jpg?raw=true) + ![alt text](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/starry_night_full.jpg?raw=true) = ![alt text](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/results/atılım%20van%20gogh.png?raw=true)
 
 
 
