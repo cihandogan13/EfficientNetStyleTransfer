@@ -2,9 +2,9 @@
 
 # Examples
 <p align="center">
-  <img src="images/atılım.jpg" width="512" height="512">
-  <img src="images/starry_night_full.jpg" width="512" height="512">
-  <img src="images/results/atılım%20van%20gogh.png" width="512" height="512">
+  <img src="images/atılım.jpg" width="256" height="256">
+  <img src="images/starry_night_full.jpg" width="256" height="256">
+  <img src="images/results/atılım%20van%20gogh.png" width="256" height="256">
 </p>
 
 
