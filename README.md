@@ -14,4 +14,4 @@ Since I want to learn more on this, I want to try:
 * Style transfer with a mask 
 * Multiple style transfer
 * Style transfer on videos
-but as I wrote before, I want to change the functions that I have take from the example. So I am going to work on that before starting on this list.
+but as I wrote before, I want to change the functions that I have taken from the example. So I am going to work on that before starting on this list.
