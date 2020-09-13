@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="images/me.jpeg" width="256" height="256">
-  <img src="images/alyssa_monks.png" width="256" height="256">
+  <img src="images/alyssa_monks.jpg" width="256" height="256">
   <img src="images/results/alyssa%20monks.png" width="256" height="256">
 </p>
 
