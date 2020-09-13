@@ -1,13 +1,10 @@
 # EfficientNetStyleTransfer
 
 # Examples
-![original](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/atılım.jpg?raw=true){:height="36px" width="36px"} + 
-![style](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/starry_night_full.jpg?raw=true) = 
-![result](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/results/atılım%20van%20gogh.png?raw=true)
 <p align="center">
-  <img src="images/atılım.jpg" width="256" height="455">
-  <img src="images/starry_night_full.jpg" width="256" height="455">
-  <img src="images/results/atılım%20van%20gogh.png" width="256" height="455">
+  <img src="images/atılım.jpg" width="512" height="512">
+  <img src="images/starry_night_full.jpg" width="512" height="512">
+  <img src="images/results/atılım%20van%20gogh.png" width="512" height="512">
 </p>
 
 
