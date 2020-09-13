@@ -1,5 +1,15 @@
 # EfficientNetStyleTransfer
 
+#Examples
+![alt text](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/atılım.jpg?raw=true) +
+![alt text](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/starry_night_full.jpg?raw=true) =
+![alt text](https://github.com/cihandogan13/EfficientNetStyleTransfer/blob/master/images/results/atılım%20van%20gogh.png?raw=true)
+
+
+
+
+
+
 # Credits
 This is my first work on Neural Style Transfer. Since I have wanted to try doing this, I have checked several sources for examples. One of them  was: https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/style_transfer.ipynb. As you can see, most of the functions are same since I did not know how to replace them YET. So they have to take most of the credit since I am still learning on this topic. As soon as I have the capacity to change those functions, I will replace them with my own code. Until then, all credits belongs to them.
 
