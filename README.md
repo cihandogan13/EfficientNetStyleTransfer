@@ -7,8 +7,11 @@
   <img src="images/results/atılım%20van%20gogh.png" width="256" height="256">
 </p>
 
-
-
+<p align="center">
+  <img src="images/alyssa%20monks.png" width="256" height="256">
+  <img src="images/me.jpeg" width="256" height="256">
+  <img src="images/results/alyssa%20monks.png" width="256" height="256">
+</p>
 
 
 # Credits
